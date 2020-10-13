@@ -1,0 +1,62 @@
+# Blender MTL File: 'kk.blend'
+# Material Count: 6
+
+newmtl b0
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 0.250000
+d 1.000000
+illum 0
+map_Kd Wii - Super Smash Bros Brawl - KK Slider\\K. K. Slider\\b0.png
+
+newmtl b1
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 0
+map_Kd Wii - Super Smash Bros Brawl - KK Slider\\K. K. Slider\\b1.png
+
+newmtl b2
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 0
+map_Kd Wii - Super Smash Bros Brawl - KK Slider\\K. K. Slider\\w.png
+
+newmtl e
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 0
+map_Kd Wii - Super Smash Bros Brawl - KK Slider\\K. K. Slider\\e.0.png
+
+newmtl m
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 0
+map_Kd Wii - Super Smash Bros Brawl - KK Slider\\K. K. Slider\\m.0.png
+
+newmtl w
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 0
+map_Kd Wii - Super Smash Bros Brawl - KK Slider\\K. K. Slider\\w.png
